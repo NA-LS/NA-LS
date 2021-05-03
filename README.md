@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NA-LS
+- 👀 I’m interested in Web Development and using AI to make a difference in the world.
+- 🌱 I’m currently learning MySQL, Flask and parallel programming.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me on LinkedIn at https://www.linkedin.com/in/nikita-a-smal/
